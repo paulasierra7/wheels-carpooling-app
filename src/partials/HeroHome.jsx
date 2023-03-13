@@ -20,8 +20,8 @@ function HeroHome() {
           <svg className="max-w-full" width="564" height="552" viewBox="0 0 564 552" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
               <linearGradient id="illustration-02" x1="-3.766" y1="300.204" x2="284.352" y2="577.921" gradientUnits="userSpaceOnUse">
-                <stop stopColor="#5D5DFF" stopOpacity=".01" />
-                <stop offset="1" stopColor="#5D5DFF" stopOpacity=".32" />
+                <stop stopColor="#93f2b3" stopOpacity=".01" />
+                <stop offset="1" stopColor="#16803c" stopOpacity=".32" />
               </linearGradient>
             </defs>
             <path
@@ -79,13 +79,13 @@ function HeroHome() {
                 >
                   <defs>
                     <linearGradient x1="78.169%" y1="9.507%" x2="24.434%" y2="90.469%" id="a">
-                      <stop stopColor="#EBF1F5" stopOpacity=".8" offset="0%" />
-                      <stop stopColor="#EBF1F5" offset="100%" />
+                      <stop stopColor="#89dda5" stopOpacity=".8" offset="0%" />
+                      <stop stopColor="#53b273" offset="100%" />
                     </linearGradient>
                   </defs>
                   <circle fill="url(#a)" cx="44" cy="44" r="44" />
                   <path
-                    className="fill-current text-purple-600"
+                    className="fill-current text-grey-600"
                     d="M52 44a.999.999 0 00-.427-.82l-10-7A1 1 0 0040 37V51a.999.999 0 001.573.82l10-7A.995.995 0 0052 44V44c0 .001 0 .001 0 0z"
                   />
                 </svg>
