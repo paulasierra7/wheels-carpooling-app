@@ -26,7 +26,7 @@ function SignUp() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1">Welcome. We exist to make entrepreneurship easier.</h1>
+                <h1 className="h1">Welcome to travel easier, faster and cheaper. 🚘</h1>
               </div>
 
               {/* Form */}
@@ -75,16 +75,16 @@ function SignUp() {
                     </div>
                   </div>
                   <div className="text-sm text-gray-500 text-center">
-                    I agree to be contacted by Open PRO about this offer as per the Open PRO <Link to="#" className="underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out">Privacy Policy</Link>.
+                    I agree with the T&C <Link to="#" className="underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out">Privacy Policy</Link>.
                                 </div>
                   <div className="flex flex-wrap -mx-3 mt-6">
                     <div className="w-full px-3">
-                      <button className="btn text-white bg-purple-600 hover:bg-purple-700 w-full">Sign up</button>
+                      <button className="btn text-white bg-green-600 hover:bg-purple-700 w-full">Sign up</button>
                     </div>
                   </div>
                 </form>
                 <div className="text-gray-400 text-center mt-6">
-                  Already using Open PRO? <Link to="signin" className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Sign in</Link>
+                  Already using Wheels? <Link to="signin" className="text-green-600 hover:text-gray-200 transition duration-150 ease-in-out">Sign in</Link>
                 </div>
               </div>
 

@@ -42,7 +42,7 @@ function HeroHome() {
               Wheels
             </h1> */}
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-            The first city-to-city carpooling app in Latin America 🚙
+            The first city-to-city carpooling app in Latin America 🚙 <br />Connects drivers who have empty seats in their car with passengers who need a ride to the same destination.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
