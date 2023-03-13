@@ -55,7 +55,7 @@ function FeaturesZigzag() {
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-green-600 mb-2">More speed. Less spend</div>
                   <h3 className="h3 mb-3">Same or better prices than travelling in bus 💸</h3>
-                  <p className="text-xl text-gray-400 mb-4">Instead of paying the same for a long distance trip in bus pay it in Wheels and drive comfortably.</p>
+                  <p className="text-xl text-gray-400 mb-4">Instead aof paying the same for a long distance trip in bus pay it in Wheels and drive comfortably.</p>
                 </div>
               </div>
             </div>
