@@ -31,7 +31,7 @@ function Footer() {
               {/* 2nd block */}
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Products</h6>
-                <ul>
+                {/* <ul>
                   <li className="mb-1">
                     <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Web Studio</Link>
                   </li>
@@ -41,13 +41,13 @@ function Footer() {
                   <li className="mb-1">
                     <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Programming Forms</Link>
                   </li>
-                </ul>
+                </ul> */}
               </div>
 
               {/* 3rd block */}
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
-                <ul>
+                {/* <ul>
                   <li className="mb-1">
                     <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
                   </li>
@@ -63,13 +63,13 @@ function Footer() {
                   <li className="mb-1">
                     <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
                   </li>
-                </ul>
+                </ul> */}
               </div>
 
               {/* 4th block */}
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Company</h6>
-                <ul>
+                {/* <ul>
                   <li className="mb-1">
                     <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
@@ -85,7 +85,7 @@ function Footer() {
                   <li className="mb-1">
                     <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
-                </ul>
+                </ul> */}
               </div>
 
             </div>
