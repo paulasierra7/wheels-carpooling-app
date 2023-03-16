@@ -97,10 +97,9 @@ function FeaturesZigzag() {
             </div>
 
           </div>
-
+        {/* <div data-tf-widget="QhrCJ6Bt" data-tf-opacity="100" data-tf-hide-headers data-tf-iframe-props="title=Wheels" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script> */}
         </div>
       </div>
-      <div data-tf-widget="QhrCJ6Bt" data-tf-opacity="100" data-tf-iframe-props="title=Wheels" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
     </section>
   );
 }
