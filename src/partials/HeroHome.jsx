@@ -45,24 +45,18 @@ function HeroHome() {
             The first city-to-city carpooling app in Latin America 🚙 <br />Connects drivers who have empty seats in their car with passengers who need a ride to the same destination.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
-              
               <div data-aos="fade-up" data-aos-delay="400">
-                <div data-tf-slider="QhrCJ6Bt" data-tf-position="left" data-tf-opacity="100" data-tf-hide-headers data-tf-iframe-props="title=Wheels" data-tf-transitive-search-params data-tf-medium="snippet">
-                <a className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">
+                <a data-tf-slider="QhrCJ6Bt" data-tf-position="left" data-tf-opacity="100" data-tf-hide-headers data-tf-iframe-props="title=Wheels" data-tf-transitive-search-params data-tf-medium="snippet" className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0" href="//embed.typeform.com/next/embed.js">
                   Register for free 👉 📲
-                </a><script src="//embed.typeform.com/next/embed.js"></script>
-                </div>
+                </a>
                 {/* <a className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">
                   Register for free 👉 📲
                 </a> */}
               </div>
               
-
               {/* <div data-aos="fade-up" data-aos-delay="600">
                 <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">
                   Learn more
-                                <button data-tf-slider="QhrCJ6Bt" data-tf-position="left" data-tf-opacity="100" data-tf-hide-headers data-tf-iframe-props="title=Wheels" data-tf-transitive-search-params data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#55AA71;color:#fff;font-size:21px;border-radius:6px;padding:0 35px;font-weight:bold;height:52.5px;cursor:pointer;line-height:52.5px;text-align:center;margin:0;text-decoration:none;">Register for free 👉 📲</button><script src="//embed.typeform.com/next/embed.js"></script>
-
                 </a>
               </div> */}
             </div>
