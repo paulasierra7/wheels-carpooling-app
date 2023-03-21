@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import Modal from '../utils/Modal';
+import { PopupButton } from '@typeform/embed-react'
 
 import HeroImage from '../images/hero-image-01.jpg';
 import WheelsLogoGreen from '../images/WheelsLogoGreen.png';
+
 
 function HeroHome() {
   const [videoModalOpen, setVideoModalOpen] = useState(false);
@@ -46,12 +48,9 @@ function HeroHome() {
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a data-tf-slider="QhrCJ6Bt" data-tf-position="left" data-tf-opacity="100" data-tf-hide-headers data-tf-iframe-props="title=Wheels" data-tf-transitive-search-params data-tf-medium="snippet" className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0" href="//embed.typeform.com/next/embed.js">
-                  Register for free 👉 📲
-                </a>
-                {/* <a className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">
-                  Register for free 👉 📲
-                </a> */}
+                <PopupButton id="QhrCJ6Bt" style={{ fontSize: 20 }} className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0">
+                Registrate HOY 👉 📲
+                </PopupButton>
               </div>
               
               {/* <div data-aos="fade-up" data-aos-delay="600">
