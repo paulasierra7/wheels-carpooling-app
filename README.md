@@ -9,13 +9,13 @@
 * Travel everywhere and help the environment 🚘
 Reduce carbon emissions and contribute to a cleaner environment by sharing rides with others.
 
-*Same or better prices than travelling in bus 💸
+* Same or better prices than travelling in bus 💸
 Instead aof paying the same for a long distance trip in bus pay it in Wheels and drive comfortably.
 
-*Travel door-to-door 👀
+* Travel door-to-door 👀
 Traveling with others can be a great opportunity to meet new people, share stories, and make new friends.
 
-*Socialize and make friends
+* Socialize and make friends
 Rides that suits your schedule
 Easily change or cancel your reservation
 
