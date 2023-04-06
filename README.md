@@ -1,6 +1,6 @@
 # Wheels Carpooling App 📲 🚘
 
-![Open React template preview](/src/images/landing.gif)
+![Open React template preview](https://github.com/paulasierra7/wheels-carpooling-app/blob/master/src/images/WheelsGIFFF.gif)
 
 **Open** is a **free React landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
