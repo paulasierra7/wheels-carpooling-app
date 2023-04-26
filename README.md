@@ -36,7 +36,7 @@ Easily change or cancel your reservation
 This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## How to open the website 
-### First way 👉 Open the URL of [the proyect](https://wheels-carpooling-app-git-master-paulasierra7.vercel.app/#0)
+### First way 👉 Open the URL of [the proyect](https://wheels-carpooling-app-7h89.vercel.app/)
 
 ### Second way 👉 From the terminal:
 * Clone the [repository](https://github.com/paulasierra7/Amazon-Copy-E-Commerce.git) of the ecommerce into your terminal.
